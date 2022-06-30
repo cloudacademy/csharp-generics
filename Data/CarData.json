@@ -1,0 +1,23 @@
+[
+    {
+        "brand": "Tesla",
+        "model": "Model S Plaid",
+        "price": 126840,
+        "engine": "electric",
+        "year":2022
+    },
+    {
+        "brand": "Ford",
+        "model": "150 Raptor",
+        "price": 69905,
+        "engine": "petrol",
+        "year":2022
+    },
+    {
+        "brand": "GM",
+        "model": "Corvette Coupe",
+        "price": 65595,
+        "engine": "petrol",
+        "year":2022
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Donald",
+        "species": "Duck",
+        "height": 40,
+        "weight": 4
+    },
+    {
+        "name": "Peter",
+        "species": "Rabbit",
+        "height": 50,
+        "weight": 3.75
+    },
+    {
+        "name": "Wile E.",
+        "species": "Coyote",
+        "height": 120,
+        "weight": 35
+    }
+]
